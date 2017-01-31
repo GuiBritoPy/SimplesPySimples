@@ -24,8 +24,6 @@ litros = int(input("Quer abastecer quantos litros? "))
 lg = gas * litros
 la = alc * litros
 
-
-
 #Descontos
 descA1 = la * (3/100)
 descA2 = la * (5/100)
